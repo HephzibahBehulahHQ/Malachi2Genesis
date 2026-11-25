@@ -39,7 +39,8 @@ This is one AdigunBible verse with words from several languages woven into one s
 * Keep the meaning and emotional weight of serious events intact while using the Gen Z voice.
 
 ## EDIT AND SAFE O GIT HUB
-YOU ARE TO START FORM THE LAST BOOK OF THE BIBLE REVELATION TO MATTEW 
+YOU ARE TO START FORM THE LAST BOOK OF THE OLD TESTASMENT  BIBLE MALACHI TO GENESIS
+YOU ARE TO WORK ONLY ON AND FROM MALACHI TO GENESIS AND NOT THE OTHER WAY ROUNDS
 Your task is to apply all the above rules: Canonical edition, Universal verse voice ,  word-level code-switching and  Meaning and dialogue to all the bible   words, sentence , verse, chapter and book in this repo , then save it back . do not deploy or merge. only edddit , commit and save it back onthe gitbub. 
 * Phase 3 is Bible content first. Work locally on a branch and validate one complete chapter at a time in canonical order from Genesis through Revelation.
 * Before merging a chapter, record evidence for original Gen Z voice, every word paired with an emoji from the palette, required and accurate code-switches, faithful meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
