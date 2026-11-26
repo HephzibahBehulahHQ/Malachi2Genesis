@@ -91,7 +91,7 @@ const malachiChapterOne = {
     },
     {
       "number": 2,
-      "text": "“I❤️ don❤️ love❤️ una❤️. That❤️ ìfẹ́❤️ is❤️ real❤️,” the❤️ LORD❤️ says❤️. But❤️ ẹ̀yin❤️ still❤️ dey❤️ ask❤️, “Báwo❤️? Where❤️ dat❤️ love❤️ show❤️?” The❤️ LORD❤️ says❤️, “War❤️ Esau❤️ nicht❤️ Jakobs❤️ Bruder❤️? Still❤️, I❤️ gave❤️ יַעֲקֹב❤️ my❤️ ààyò❤️. I❤️ showed❤️ him❤️ אַהֲבָה❤️. אָהַבְתִּי❤️ אֶת❤️ Jacob❤️.”",
+      "text": "“The❤️ ìfẹ́❤️ I❤️ don❤️ show❤️ una❤️ is❤️ real❤️,” the❤️ LORD❤️ says❤️. But❤️ ẹ̀yin❤️ still❤️ dey❤️ ask❤️, “Báwo❤️? Where❤️ dat❤️ love❤️ show❤️?” The❤️ LORD❤️ says❤️, “War❤️ Esau❤️ nicht❤️ Jakobs❤️ Bruder❤️? Still❤️, my❤️ ààyò❤️ went❤️ to❤️ יַעֲקֹב❤️. I❤️ showed❤️ him❤️ אַהֲבָה❤️. אָהַבְתִּי❤️ אֶת❤️ Jacob❤️.”",
       "glosses": [
         [
           "don",
@@ -177,7 +177,7 @@ const malachiChapterOne = {
     },
     {
       "number": 3,
-      "text": "“But🌍 I🌍 hated🌍 עֵשָׂו🌍. I🌍 don🌍 turn🌍 im🌍 òkè🌍 into🌍 Ödland🌍. Im🌍 Erbe🌍? Alles🌍 liegt🌍 there🌍 wasted🌍. Nothing🌍 dey🌍 remain🌍 of🌍 it🌍. That🌍 ilẹ̀🌍, his🌍 ogún🌍, is🌍 now🌍 for🌍 the🌍 תַּנִּים🌍 of🌍 the🌍 מִדְבָּר🌍. His🌍 נַחֲלָה🌍 is🌍 all🌍 aṣálẹ̀🌍 now🌍.”",
+      "text": "“But🌍 I🌍 hated🌍 עֵשָׂו🌍. I🌍 don🌍 turn🌍 im🌍 òkè🌍 into🌍 Ödland🌍. Im🌍 Erbe🌍? Alles🌍 liegt🌍 in🌍 ruins🌍. Nothing🌍 dey🌍 remain🌍 of🌍 it🌍. That🌍 ilẹ̀🌍 he🌍 got🌍 as🌍 his🌍 ogún🌍 is🌍 now🌍 for🌍 the🌍 תַּנִּים🌍 of🌍 the🌍 מִדְבָּר🌍. His🌍 נַחֲלָה🌍 is🌍 all🌍 aṣálẹ̀🌍 now🌍.”",
       "glosses": [
         [
           "don",
@@ -637,7 +637,7 @@ const malachiChapterOne = {
     },
     {
       "number": 8,
-      "text": "“When🔥 una🔥 dey🔥 sacrifice🔥 a🔥 blindes🔥 Tier🔥 as🔥 a🔥 קָרְבָּן🔥, ṣé🔥 that’s🔥 right🔥? That’s🔥 ibi🔥. That🔥 kì🔥 í🔥 ṣe🔥 okay🔥. And🔥 when🔥 una🔥 bring🔥 the🔥 lahmen🔥 and🔥 kranken🔥 animals🔥, no🔥 be🔥 ẹ̀ṣẹ̀🔥? Try🔥 taking🔥 that🔥 מִנְחָה🔥 to🔥 your🔥 פֶּחָה🔥. Will🔥 he🔥 be🔥 content🔥 with🔥 you🔥 or🔥 show🔥 you🔥 favor🔥?” says🔥 יְהוָה🔥 צְבָאוֹת🔥.",
+      "text": "“When🔥 una🔥 dey🔥 sacrifice🔥 a🔥 blindes🔥 Tier🔥 as🔥 a🔥 קָרְבָּן🔥, ṣé🔥 that’s🔥 okay🔥? It’s🔥 ibi🔥. It🔥 kì🔥 í🔥 ṣe🔥 right🔥. And🔥 when🔥 una🔥 bring🔥 the🔥 lahmen🔥 and🔥 kranken🔥 ones🔥, no🔥 be🔥 ẹ̀ṣẹ̀🔥? Try🔥 taking🔥 that🔥 מִנְחָה🔥 to🔥 your🔥 פֶּחָה🔥. Will🔥 he🔥 be🔥 content🔥 with🔥 you🔥 or🔥 show🔥 you🔥 favor🔥?” says🔥 יְהוָה🔥 צְבָאוֹת🔥.",
       "glosses": [
         [
           "una",
@@ -728,7 +728,7 @@ const malachiChapterOne = {
     },
     {
       "number": 9,
-      "text": "“Abeg🙏, make🙏 una🙏 bẹ̀🙏 Ọlọ́run🙏 ní🙏 báyìí🙏 to🙏 show🙏 us🙏 oore-ọ̀fẹ́🙏. Bittet🙏 ihn🙏 um🙏 Gnade🙏. Amma🙏 na🙏 una🙏 bring🙏 this🙏 on🙏. Will🙏 he🙏 really🙏 look🙏 una🙏 side🙏 with🙏 חֵן🙏 after🙏 getting🙏 that🙏 from🙏 your🙏 יָד🙏?” asks🙏 יְהוָה🙏 צְבָאוֹת🙏.",
+      "text": "“Abeg🙏, make🙏 una🙏 bẹ̀🙏 Ọlọ́run🙏 ní🙏 báyìí🙏 to🙏 show🙏 us🙏 oore-ọ̀fẹ́🙏. Bittet🙏 ihn🙏 um🙏 Gnade🙏. Amma🙏 na🙏 una🙏 bring🙏 this🙏 on🙏. You🙏 think🙏 he’ll🙏 really🙏 look🙏 una🙏 side🙏 with🙏 חֵן🙏 after🙏 getting🙏 that🙏 from🙏 your🙏 יָד🙏?” asks🙏 יְהוָה🙏 צְבָאוֹת🙏.",
       "glosses": [
         [
           "Abeg",
@@ -1016,7 +1016,7 @@ const malachiChapterOne = {
     },
     {
       "number": 12,
-      "text": "“Bot🔥 una🔥 dey🔥 profane🔥 my🔥 שֵׁם🔥 when🔥 una🔥 talk🔥 say🔥 the🔥 שֻׁלְחָן🔥 of🔥 יְהוָה🔥 don🔥 get🔥 defiled🔥. You🔥 call🔥 my🔥 tábìlì🔥 aláìmọ́🔥. Unu🔥 look🔥 pon🔥 das🔥 Essen🔥 darauf🔥 and🔥 mee🔥 ka🔥 à🔥 ga-asị🔥 it’s🔥 wertlos🔥. To🔥 you🔥, the🔥 oúnjẹ🔥 עָלָיו🔥 deserves🔥 ẹ̀gàn🔥.”",
+      "text": "“Bot🔥 una🔥 dey🔥 profane🔥 my🔥 שֵׁם🔥 when🔥 una🔥 talk🔥 say🔥 the🔥 שֻׁלְחָן🔥 of🔥 יְהוָה🔥 don🔥 get🔥 defiled🔥. You🔥 call🔥 my🔥 tábìlì🔥 aláìmọ́🔥. Unu🔥 look🔥 pon🔥 das🔥 Essen🔥 darauf🔥 and🔥 treat🔥 it🔥 ka🔥 ihe🔥 efu🔥, like🔥 it’s🔥 wertlos🔥. To🔥 you🔥, the🔥 oúnjẹ🔥 עָלָיו🔥 deserves🔥 ẹ̀gàn🔥.”",
       "glosses": [
         [
           "una",
@@ -1104,20 +1104,20 @@ const malachiChapterOne = {
           "jam"
         ],
         [
-          "mee ka à ga-asị",
-          "act as if",
-          "ig"
-        ],
-        [
           "עָלָיו",
           "on it",
           "he"
+        ],
+        [
+          "ka ihe efu",
+          "as worthless",
+          "ig"
         ]
       ]
     },
     {
       "number": 13,
-      "text": "“Una😭 say😭, ‘See😭, wetin😭 a😭 àárẹ̀😭 this😭 is😭!’ Then😭 una😭 dey😭 scoff😭 at😭 it😭,” says😭 יְהוָה😭 צְבָאוֹת😭. “You😭 bring😭 what’s😭 been😭 zerrissen😭, pamoja😭 na😭 lahme😭 und😭 kranke😭 animals😭. Ẹ̀yin😭 bring😭 that😭 as😭 your😭 מִנְחָה😭. Should😭 I😭 gbà😭 that😭 קָרְבָּן😭 from😭 your😭 יָד😭? Do😭 you😭 expect😭 mi😭 to😭 honor😭 it😭 with😭 ọlá😭?” asks😭 the😭 LORD😭.",
+      "text": "“Una😭 say😭, ‘See😭, wetin😭 a😭 àárẹ̀😭 this😭 is😭!’ Then😭 una😭 dey😭 scoff😭 at😭 it😭,” says😭 יְהוָה😭 צְבָאוֹת😭. “You😭 bring😭 what’s😭 been😭 zerrissen😭, pamoja😭 na😭 lahme😭 und😭 kranke😭 ẹranko😭. Ẹ̀yin😭 bring😭 that😭 as😭 your😭 מִנְחָה😭. Do😭 you😭 expect😭 mi😭 to😭 gbà😭 that😭 קָרְבָּן😭 from😭 your😭 יָד😭?” asks😭 the😭 LORD😭.",
       "glosses": [
         [
           "Una",
@@ -1190,11 +1190,6 @@ const malachiChapterOne = {
           "he"
         ],
         [
-          "ọlá",
-          "honor",
-          "yo"
-        ],
-        [
           "קָרְבָּן",
           "sacrifice",
           "he"
@@ -1208,12 +1203,17 @@ const malachiChapterOne = {
           "mi",
           "me",
           "jam"
+        ],
+        [
+          "ẹranko",
+          "animals",
+          "yo"
         ]
       ]
     },
     {
       "number": 14,
-      "text": "“Una🔥 maldición🔥 on🔥 the🔥 ẹlẹ́tàn🔥 who🔥 get🔥 a🔥 זָכָר🔥 in🔥 his🔥 עֵדֶר🔥, don🔥 make🔥 a🔥 נֶדֶר🔥, but🔥 come🔥 offer🔥 an🔥 ohun🔥 that’s🔥 bàjẹ́🔥 to🔥 the🔥 LORD🔥. Na🔥 because🔥 I’m🔥 ein🔥 großer🔥 König🔥,” says🔥 יְהוָה🔥 צְבָאוֹת🔥, “and🔥 my🔥 orúkọ🔥 inspires🔥 Ehrfurcht🔥 a🔥 cikin🔥 al’ummai🔥.”",
+      "text": "“Una🔥 maldición🔥 on🔥 the🔥 ẹlẹ́tàn🔥 who🔥 get🔥 a🔥 זָכָר🔥 in🔥 his🔥 עֵדֶר🔥, don🔥 make🔥 a🔥 נֶדֶר🔥, but🔥 come🔥 offer🔥 an🔥 ohun🔥 that🔥 don🔥 spoil🔥, something🔥 bàjẹ́🔥 to🔥 the🔥 LORD🔥. Na🔥 because🔥 I’m🔥 ein🔥 großer🔥 König🔥,” says🔥 יְהוָה🔥 צְבָאוֹת🔥, “and🔥 my🔥 orúkọ🔥 inspires🔥 Ehrfurcht🔥 a🔥 cikin🔥 al’ummai🔥.”",
       "glosses": [
         [
           "ẹlẹ́tàn",
@@ -1304,6 +1304,11 @@ const malachiChapterOne = {
           "a cikin al’ummai",
           "among the nations",
           "ha"
+        ],
+        [
+          "don spoil",
+          "has spoiled",
+          "pcm"
         ]
       ]
     }
