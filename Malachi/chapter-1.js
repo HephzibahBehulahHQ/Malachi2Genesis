@@ -5,7 +5,7 @@ const malachiChapterOne = {
   "verses": [
     {
       "number": 1,
-      "text": "Na🙏 the🙏 LORD’s🙏 message🙏 for🙏 Ìsírẹ́lì🙏. Hear🙏 am🙏 well🙏. Gott🙏 gab🙏 diese🙏 Botschaft🙏 through🙏 Malachi🙏, His🙏 נָבִיא🙏. דְּבַר🙏 יְהוָה🙏 אֶל🙏 Israel🙏 carries🙏 ìwúwo🙏 and🙏 calls🙏 for🙏 etí🙏 and🙏 àkíyèsí🙏.",
+      "text": "Na🙏 message🙏 with🙏 ìwúwo🙏 for🙏 Ìsírẹ́lì🙏. Hear🙏 am🙏 well🙏. Gott🙏 gab🙏 diese🙏 Botschaft🙏 through🙏 Malachi🙏, His🙏 נָבִיא🙏. דְּבַר🙏 יְהוָה🙏 אֶל🙏 Israel🙏. Give🙏 it🙏 your🙏 etí🙏 and🙏 your🙏 àkíyèsí🙏.",
       "glosses": [
         [
           "Na",
@@ -91,7 +91,7 @@ const malachiChapterOne = {
     },
     {
       "number": 2,
-      "text": "“I❤️ don❤️ show❤️ una❤️ ìfẹ́❤️,” the❤️ LORD❤️ says❤️. But❤️ ẹ̀yin❤️ still❤️ dey❤️ ask❤️, “Báwo❤️? Where❤️ dat❤️ love❤️ show❤️?” The❤️ LORD❤️ says❤️, “War❤️ Esau❤️ nicht❤️ Jakobs❤️ Bruder❤️? Still❤️, I❤️ gave❤️ יַעֲקֹב❤️ my❤️ ààyò❤️. I❤️ showed❤️ him❤️ אַהֲבָה❤️. Yes❤️, אָהַבְתִּי❤️ אֶת❤️ Jacob❤️.”",
+      "text": "“I❤️ don❤️ love❤️ una❤️. That❤️ ìfẹ́❤️ is❤️ real❤️,” the❤️ LORD❤️ says❤️. But❤️ ẹ̀yin❤️ still❤️ dey❤️ ask❤️, “Báwo❤️? Where❤️ dat❤️ love❤️ show❤️?” The❤️ LORD❤️ says❤️, “War❤️ Esau❤️ nicht❤️ Jakobs❤️ Bruder❤️? Still❤️, I❤️ gave❤️ יַעֲקֹב❤️ my❤️ ààyò❤️. I❤️ showed❤️ him❤️ אַהֲבָה❤️. אָהַבְתִּי❤️ אֶת❤️ Jacob❤️.”",
       "glosses": [
         [
           "don",
@@ -177,7 +177,7 @@ const malachiChapterOne = {
     },
     {
       "number": 3,
-      "text": "“But🌍 I🌍 hated🌍 עֵשָׂו🌍. I🌍 don🌍 turn🌍 im🌍 òkè🌍 into🌍 Ödland🌍. Im🌍 Erbe🌍 no🌍 remain🌍 whole🌍. Alles🌍 liegt🌍 waste🌍. That🌍 ilẹ̀🌍, that🌍 ogún🌍, is🌍 now🌍 for🌍 the🌍 תַּנִּים🌍 of🌍 the🌍 מִדְבָּר🌍. His🌍 נַחֲלָה🌍 is🌍 all🌍 aṣálẹ̀🌍 now🌍.”",
+      "text": "“But🌍 I🌍 hated🌍 עֵשָׂו🌍. I🌍 don🌍 turn🌍 im🌍 òkè🌍 into🌍 Ödland🌍. Im🌍 Erbe🌍? Alles🌍 liegt🌍 there🌍 wasted🌍. Nothing🌍 dey🌍 remain🌍 of🌍 it🌍. That🌍 ilẹ̀🌍, his🌍 ogún🌍, is🌍 now🌍 for🌍 the🌍 תַּנִּים🌍 of🌍 the🌍 מִדְבָּר🌍. His🌍 נַחֲלָה🌍 is🌍 all🌍 aṣálẹ̀🌍 now🌍.”",
       "glosses": [
         [
           "don",
@@ -187,11 +187,6 @@ const malachiChapterOne = {
         [
           "im",
           "his",
-          "pcm"
-        ],
-        [
-          "no",
-          "does not",
           "pcm"
         ],
         [
@@ -258,12 +253,22 @@ const malachiChapterOne = {
           "נַחֲלָה",
           "inheritance",
           "he"
+        ],
+        [
+          "dey",
+          "is there to",
+          "pcm"
+        ],
+        [
+          "Im",
+          "his",
+          "pcm"
         ]
       ]
     },
     {
       "number": 4,
-      "text": "Dem🔥 in🔥 Edom🔥 say🔥, “We🔥 don🔥 lose🔥 what🔥 we🔥 had🔥, but🔥 we🔥 go🔥 padà🔥 and🔥 tún🔥 kọ́🔥 the🔥 mkpọmkpọ🔥 ebe🔥, the🔥 Ruinen🔥.” יְהוָה🔥 צְבָאוֹת🔥 says🔥, “They🔥 can🔥 bauen🔥, but🔥 I’ll🔥 come🔥 and🔥 alles🔥 einreißen🔥. Mutane🔥 go🔥 call🔥 it🔥 גְּבוּל🔥 רִשְׁעָה🔥, the🔥 land🔥 marked🔥 by🔥 ìwà🔥 búburú🔥. They’ll🔥 call🔥 them🔥 the🔥 people🔥 under🔥 my🔥 ìbínú🔥 עַד🔥 עוֹלָם🔥.”",
+      "text": "Dem🔥 in🔥 Edom🔥 say🔥, “We🔥 don🔥 lose🔥 what🔥 we🔥 had🔥, but🔥 we🔥 go🔥 padà🔥 and🔥 tún🔥 kọ́🔥 the🔥 mkpọmkpọ🔥 ebe🔥, the🔥 Ruinen🔥.” יְהוָה🔥 צְבָאוֹת🔥 says🔥, “They🔥 can🔥 bauen🔥, but🔥 I’ll🔥 alles🔥 einreißen🔥. Mutane🔥 go🔥 call🔥 it🔥 גְּבוּל🔥 רִשְׁעָה🔥, the🔥 land🔥 marked🔥 by🔥 ìwà🔥 búburú🔥. They’ll🔥 call🔥 them🔥 the🔥 people🔥 under🔥 my🔥 ìbínú🔥 עַד🔥 עוֹלָם🔥.”",
       "glosses": [
         [
           "Dem",
@@ -450,7 +455,7 @@ const malachiChapterOne = {
     },
     {
       "number": 6,
-      "text": "Ọmọ🙏 gives🙏 ọlá🙏 to🙏 his🙏 bàbá🙏, and🙏 a🙏 עֶבֶד🙏 honors🙏 his🙏 oga🙏. יְהוָה🙏 צְבָאוֹת🙏 says🙏 to🙏 una🙏 priests🙏 who🙏 look🙏 down🙏 on🙏 my🙏 orúkọ🙏, “If🙏 I’m🙏 your🙏 Vater🙏, wo🙏 bleibt🙏 my🙏 Ehre🙏? If🙏 I🙏 be🙏 your🙏 אָדוֹן🙏, where’s🙏 the🙏 מוֹרָא🙏 you🙏 owe🙏 me🙏? But🙏 una🙏 dey🙏 asking🙏, ‘How🙏 we🙏 take🙏 disrespect🙏 your🙏 name🙏?’”",
+      "text": "Ọmọ🙏 gives🙏 ọlá🙏 to🙏 his🙏 bàbá🙏, and🙏 a🙏 עֶבֶד🙏 honors🙏 his🙏 oga🙏. יְהוָה🙏 צְבָאוֹת🙏 says🙏 to🙏 una🙏 priests🙏 who🙏 look🙏 down🙏 on🙏 my🙏 orúkọ🙏, “If🙏 I’m🙏 your🙏 Vater🙏, wo🙏 bleibt🙏 my🙏 Ehre🙏? If🙏 I🙏 be🙏 your🙏 אָדוֹן🙏, where’s🙏 the🙏 מוֹרָא🙏 you🙏 owe🙏 me🙏? But🙏 una🙏 dey🙏 ask🙏, ‘How🙏 we🙏 take🙏 disrespect🙏 your🙏 name🙏?’”",
       "glosses": [
         [
           "Ọmọ",
@@ -632,7 +637,7 @@ const malachiChapterOne = {
     },
     {
       "number": 8,
-      "text": "“When🔥 una🔥 dey🔥 sacrifice🔥 a🔥 blindes🔥 Tier🔥 as🔥 a🔥 קָרְבָּן🔥, ṣé🔥 that🔥 kì🔥 í🔥 ṣe🔥 ibi🔥? And🔥 when🔥 una🔥 bring🔥 the🔥 lahmen🔥 and🔥 kranken🔥 animals🔥, no🔥 be🔥 ẹ̀ṣẹ̀🔥? Try🔥 taking🔥 that🔥 מִנְחָה🔥 to🔥 your🔥 פֶּחָה🔥. Will🔥 he🔥 be🔥 content🔥 with🔥 you🔥 or🔥 show🔥 you🔥 favor🔥?” says🔥 יְהוָה🔥 צְבָאוֹת🔥.",
+      "text": "“When🔥 una🔥 dey🔥 sacrifice🔥 a🔥 blindes🔥 Tier🔥 as🔥 a🔥 קָרְבָּן🔥, ṣé🔥 that’s🔥 right🔥? That’s🔥 ibi🔥. That🔥 kì🔥 í🔥 ṣe🔥 okay🔥. And🔥 when🔥 una🔥 bring🔥 the🔥 lahmen🔥 and🔥 kranken🔥 animals🔥, no🔥 be🔥 ẹ̀ṣẹ̀🔥? Try🔥 taking🔥 that🔥 מִנְחָה🔥 to🔥 your🔥 פֶּחָה🔥. Will🔥 he🔥 be🔥 content🔥 with🔥 you🔥 or🔥 show🔥 you🔥 favor🔥?” says🔥 יְהוָה🔥 צְבָאוֹת🔥.",
       "glosses": [
         [
           "una",
@@ -1112,7 +1117,7 @@ const malachiChapterOne = {
     },
     {
       "number": 13,
-      "text": "“Una😭 say😭, ‘See😭, wetin😭 a😭 àárẹ̀😭 this😭 is😭!’ Then😭 una😭 dey😭 scoff😭 at😭 it😭,” says😭 יְהוָה😭 צְבָאוֹת😭. “You😭 bring😭 what’s😭 been😭 zerrissen😭, pamoja😭 na😭 lahme😭 und😭 kranke😭 animals😭. Ẹ̀yin😭 bring😭 that😭 as😭 your😭 מִנְחָה😭. Is😭 that😭 what😭 you😭 expect😭 mi😭 to😭 gbà😭 from😭 your😭 יָד😭? Should😭 I😭 give😭 ọlá😭 to😭 that😭 קָרְבָּן😭?” asks😭 the😭 LORD😭.",
+      "text": "“Una😭 say😭, ‘See😭, wetin😭 a😭 àárẹ̀😭 this😭 is😭!’ Then😭 una😭 dey😭 scoff😭 at😭 it😭,” says😭 יְהוָה😭 צְבָאוֹת😭. “You😭 bring😭 what’s😭 been😭 zerrissen😭, pamoja😭 na😭 lahme😭 und😭 kranke😭 animals😭. Ẹ̀yin😭 bring😭 that😭 as😭 your😭 מִנְחָה😭. Should😭 I😭 gbà😭 that😭 קָרְבָּן😭 from😭 your😭 יָד😭? Do😭 you😭 expect😭 mi😭 to😭 honor😭 it😭 with😭 ọlá😭?” asks😭 the😭 LORD😭.",
       "glosses": [
         [
           "Una",
@@ -1208,7 +1213,7 @@ const malachiChapterOne = {
     },
     {
       "number": 14,
-      "text": "“Una🔥 maldición🔥 on🔥 the🔥 ẹlẹ́tàn🔥 who🔥 get🔥 a🔥 זָכָר🔥 in🔥 his🔥 עֵדֶר🔥, don🔥 make🔥 a🔥 נֶדֶר🔥, but🔥 come🔥 offer🔥 something🔥, an🔥 ohun🔥 that’s🔥 bàjẹ́🔥 to🔥 the🔥 LORD🔥. Na🔥 because🔥 I’m🔥 ein🔥 großer🔥 König🔥,” says🔥 יְהוָה🔥 צְבָאוֹת🔥, “and🔥 my🔥 orúkọ🔥 inspires🔥 Ehrfurcht🔥 a🔥 cikin🔥 al’ummai🔥.”",
+      "text": "“Una🔥 maldición🔥 on🔥 the🔥 ẹlẹ́tàn🔥 who🔥 get🔥 a🔥 זָכָר🔥 in🔥 his🔥 עֵדֶר🔥, don🔥 make🔥 a🔥 נֶדֶר🔥, but🔥 come🔥 offer🔥 an🔥 ohun🔥 that’s🔥 bàjẹ́🔥 to🔥 the🔥 LORD🔥. Na🔥 because🔥 I’m🔥 ein🔥 großer🔥 König🔥,” says🔥 יְהוָה🔥 צְבָאוֹת🔥, “and🔥 my🔥 orúkọ🔥 inspires🔥 Ehrfurcht🔥 a🔥 cikin🔥 al’ummai🔥.”",
       "glosses": [
         [
           "ẹlẹ́tàn",
