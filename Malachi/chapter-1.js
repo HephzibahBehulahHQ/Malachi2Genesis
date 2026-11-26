@@ -91,7 +91,7 @@ const malachiChapterOne = {
     },
     {
       "number": 2,
-      "text": "“The❤️ ìfẹ́❤️ I❤️ don❤️ show❤️ una❤️ is❤️ real❤️,” the❤️ LORD❤️ says❤️. But❤️ ẹ̀yin❤️ still❤️ dey❤️ ask❤️, “Báwo❤️? Where❤️ dat❤️ love❤️ show❤️?” The❤️ LORD❤️ says❤️, “War❤️ Esau❤️ nicht❤️ Jakobs❤️ Bruder❤️? Still❤️, my❤️ ààyò❤️ went❤️ to❤️ יַעֲקֹב❤️. I❤️ showed❤️ him❤️ אַהֲבָה❤️. אָהַבְתִּי❤️ אֶת❤️ Jacob❤️.”",
+      "text": "“The❤️ ìfẹ́❤️ I❤️ don❤️ show❤️ una❤️ is❤️ real❤️,” the❤️ LORD❤️ says❤️. But❤️ ẹ̀yin❤️ still❤️ dey❤️ ask❤️, “Báwo❤️? Where❤️ dat❤️ love❤️ show❤️?” The❤️ LORD❤️ says❤️, “War❤️ Esau❤️ nicht❤️ Jakobs❤️ Bruder❤️? Still❤️, my❤️ ààyò❤️ went❤️ to❤️ יַעֲקֹב❤️. My❤️ אַהֲבָה❤️ went❤️ to❤️ him❤️. אָהַבְתִּי❤️ אֶת❤️ Jacob❤️.”",
       "glosses": [
         [
           "don",
@@ -268,7 +268,7 @@ const malachiChapterOne = {
     },
     {
       "number": 4,
-      "text": "Dem🔥 in🔥 Edom🔥 say🔥, “We🔥 don🔥 lose🔥 what🔥 we🔥 had🔥, but🔥 we🔥 go🔥 padà🔥 and🔥 tún🔥 kọ́🔥 the🔥 mkpọmkpọ🔥 ebe🔥, the🔥 Ruinen🔥.” יְהוָה🔥 צְבָאוֹת🔥 says🔥, “They🔥 can🔥 bauen🔥, but🔥 I’ll🔥 alles🔥 einreißen🔥. Mutane🔥 go🔥 call🔥 it🔥 גְּבוּל🔥 רִשְׁעָה🔥, the🔥 land🔥 marked🔥 by🔥 ìwà🔥 búburú🔥. They’ll🔥 call🔥 them🔥 the🔥 people🔥 under🔥 my🔥 ìbínú🔥 עַד🔥 עוֹלָם🔥.”",
+      "text": "Dem🔥 in🔥 Edom🔥 say🔥, “We🔥 don🔥 lose🔥 what🔥 we🔥 had🔥, but🔥 we🔥 go🔥 padà🔥 and🔥 tún🔥 kọ́🔥 the🔥 mkpọmkpọ🔥 ebe🔥.” יְהוָה🔥 צְבָאוֹת🔥 says🔥, “Sie🔥 werden🔥 bauen🔥, but🔥 I’ll🔥 alles🔥 einreißen🔥. Mutane🔥 go🔥 call🔥 it🔥 גְּבוּל🔥 of🔥 ìwà🔥 búburú🔥, the🔥 land🔥 of🔥 רִשְׁעָה🔥. They’ll🔥 call🔥 them🔥 the🔥 people🔥 under🔥 my🔥 ìbínú🔥 עַד🔥 עוֹלָם🔥.”",
       "glosses": [
         [
           "Dem",
@@ -294,11 +294,6 @@ const malachiChapterOne = {
           "tún kọ́",
           "rebuild",
           "yo"
-        ],
-        [
-          "Ruinen",
-          "ruins",
-          "de"
         ],
         [
           "יְהוָה צְבָאוֹת",
@@ -359,6 +354,16 @@ const malachiChapterOne = {
           "mkpọmkpọ ebe",
           "ruined place",
           "ig"
+        ],
+        [
+          "Sie",
+          "they",
+          "de"
+        ],
+        [
+          "werden",
+          "will",
+          "de"
         ]
       ]
     },
@@ -546,7 +551,7 @@ const malachiChapterOne = {
     },
     {
       "number": 7,
-      "text": "“Una🔥 dey🔥 weta🔥 לֶחֶם🔥 that’s🔥 aláìmọ́🔥 to🔥 my🔥 מִזְבֵּחַ🔥. But🔥 you🔥 still🔥 dey🔥 ask🔥, ‘Báwo🔥 did🔥 we🔥 defile🔥 you🔥?’ Na🔥 wetin🔥 you🔥 say🔥 about🔥 the🔥 שֻׁלְחָן🔥 of🔥 יְהוָה🔥. You🔥 treat🔥 my🔥 tábìlì🔥 like🔥 it🔥 deserves🔥 ẹ̀gàn🔥. To🔥 you🔥, der🔥 Tisch🔥 ist🔥 verachtenswert🔥.”",
+      "text": "“Una🔥 dey🔥 weta🔥 לֶחֶם🔥 that’s🔥 aláìmọ́🔥 to🔥 my🔥 מִזְבֵּחַ🔥. But🔥 you🔥 still🔥 dey🔥 ask🔥, ‘Báwo🔥 did🔥 we🔥 defile🔥 you🔥?’ Na🔥 wetin🔥 you🔥 say🔥 about🔥 the🔥 שֻׁלְחָן🔥 of🔥 יְהוָה🔥. In🔥 your🔥 ọ̀rọ̀🔥, you🔥 give🔥 it🔥 ẹ̀gàn🔥. ‘Der🔥 Tisch🔥 ist🔥 verachtenswert🔥.’”",
       "glosses": [
         [
           "Una dey",
@@ -599,19 +604,9 @@ const malachiChapterOne = {
           "he"
         ],
         [
-          "tábìlì",
-          "table",
-          "yo"
-        ],
-        [
           "ẹ̀gàn",
           "contempt",
           "yo"
-        ],
-        [
-          "der",
-          "the",
-          "de"
         ],
         [
           "Tisch",
@@ -632,12 +627,22 @@ const malachiChapterOne = {
           "weta",
           "bring",
           "ig"
+        ],
+        [
+          "ọ̀rọ̀",
+          "words",
+          "yo"
+        ],
+        [
+          "Der",
+          "the",
+          "de"
         ]
       ]
     },
     {
       "number": 8,
-      "text": "“When🔥 una🔥 dey🔥 sacrifice🔥 a🔥 blindes🔥 Tier🔥 as🔥 a🔥 קָרְבָּן🔥, ṣé🔥 that’s🔥 okay🔥? It’s🔥 ibi🔥. It🔥 kì🔥 í🔥 ṣe🔥 right🔥. And🔥 when🔥 una🔥 bring🔥 the🔥 lahmen🔥 and🔥 kranken🔥 ones🔥, no🔥 be🔥 ẹ̀ṣẹ̀🔥? Try🔥 taking🔥 that🔥 מִנְחָה🔥 to🔥 your🔥 פֶּחָה🔥. Will🔥 he🔥 be🔥 content🔥 with🔥 you🔥 or🔥 show🔥 you🔥 favor🔥?” says🔥 יְהוָה🔥 צְבָאוֹת🔥.",
+      "text": "“When🔥 una🔥 dey🔥 sacrifice🔥 a🔥 blindes🔥 Tier🔥 as🔥 a🔥 קָרְבָּן🔥, ṣé🔥 you🔥 really🔥 think🔥 there’s🔥 no🔥 ibi🔥 in🔥 that🔥? That🔥 kì🔥 í🔥 ṣe🔥 right🔥. And🔥 when🔥 una🔥 bring🔥 the🔥 lahmen🔥 and🔥 kranken🔥 ones🔥, no🔥 be🔥 ẹ̀ṣẹ̀🔥? Try🔥 taking🔥 that🔥 מִנְחָה🔥 to🔥 your🔥 פֶּחָה🔥. Will🔥 he🔥 be🔥 content🔥 with🔥 you🔥 or🔥 show🔥 you🔥 favor🔥?” says🔥 יְהוָה🔥 צְבָאוֹת🔥.",
       "glosses": [
         [
           "una",
@@ -728,7 +733,7 @@ const malachiChapterOne = {
     },
     {
       "number": 9,
-      "text": "“Abeg🙏, make🙏 una🙏 bẹ̀🙏 Ọlọ́run🙏 ní🙏 báyìí🙏 to🙏 show🙏 us🙏 oore-ọ̀fẹ́🙏. Bittet🙏 ihn🙏 um🙏 Gnade🙏. Amma🙏 na🙏 una🙏 bring🙏 this🙏 on🙏. You🙏 think🙏 he’ll🙏 really🙏 look🙏 una🙏 side🙏 with🙏 חֵן🙏 after🙏 getting🙏 that🙏 from🙏 your🙏 יָד🙏?” asks🙏 יְהוָה🙏 צְבָאוֹת🙏.",
+      "text": "“Abeg🙏, make🙏 una🙏 bẹ̀🙏 Ọlọ́run🙏 ní🙏 báyìí🙏. Bittet🙏 ihn🙏 um🙏 Gnade🙏, for🙏 oore-ọ̀fẹ́🙏 on🙏 all🙏 of🙏 us🙏. Amma🙏 na🙏 una🙏 bring🙏 this🙏 on🙏. You🙏 think🙏 he’ll🙏 really🙏 look🙏 una🙏 side🙏 with🙏 חֵן🙏 after🙏 getting🙏 that🙏 from🙏 your🙏 יָד🙏?” asks🙏 יְהוָה🙏 צְבָאוֹת🙏.",
       "glosses": [
         [
           "Abeg",
@@ -1016,7 +1021,7 @@ const malachiChapterOne = {
     },
     {
       "number": 12,
-      "text": "“Bot🔥 una🔥 dey🔥 profane🔥 my🔥 שֵׁם🔥 when🔥 una🔥 talk🔥 say🔥 the🔥 שֻׁלְחָן🔥 of🔥 יְהוָה🔥 don🔥 get🔥 defiled🔥. You🔥 call🔥 my🔥 tábìlì🔥 aláìmọ́🔥. Unu🔥 look🔥 pon🔥 das🔥 Essen🔥 darauf🔥 and🔥 treat🔥 it🔥 ka🔥 ihe🔥 efu🔥, like🔥 it’s🔥 wertlos🔥. To🔥 you🔥, the🔥 oúnjẹ🔥 עָלָיו🔥 deserves🔥 ẹ̀gàn🔥.”",
+      "text": "“Bot🔥 una🔥 dey🔥 profane🔥 my🔥 שֵׁם🔥 when🔥 una🔥 talk🔥 say🔥 the🔥 שֻׁלְחָן🔥 of🔥 יְהוָה🔥 don🔥 get🔥 defiled🔥. You🔥 call🔥 my🔥 tábìlì🔥 aláìmọ́🔥. Unu🔥 look🔥 pon🔥 das🔥 Essen🔥 darauf🔥 and🔥 treat🔥 it🔥 ka🔥 ihe🔥 efu🔥. To🔥 you🔥, the🔥 oúnjẹ🔥 עָלָיו🔥 is🔥 wertlos🔥 and🔥 deserves🔥 ẹ̀gàn🔥.”",
       "glosses": [
         [
           "una",
